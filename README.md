@@ -37,7 +37,5 @@ stock-market-insights-app/
 
 ---
 
-## ⚙️ Installation (Run Locally)
-
-1. Clone the repository:
-git clone https://github.com/atharvibabhare-tech/stock-market-insights-app.git
+## 🌐 Live Demo
+[Click Here to View Live App](https://stock-market-insights-app-mh52vcvknkwt9dwy6zdybk.streamlit.app/ , https://stock-market-insights-app-kuisz9ux93ngc7j65js43o.streamlit.app/)
